@@ -1,0 +1,51 @@
+clinic_id,name,country,created_at,updated_at,currency_code,status,account_manager,hidden,city,facilitator_name
+1,Bangkok International Center,Thailand,2014-03-05 16:06,2014-03-07 10:08,THB,status_clinic_approved,Joe,0,Bangkok,Matchaya
+2,Dr. Shinawatra International,Thailand,2014-03-05 16:07,2014-09-29 10:09,THB,status_clinic_approved,Joe,0,Bangkok,Matchaya
+3,Dream Clinic Thailand,Thailand,2014-03-05 16:30,2014-03-07 13:04,THB,status_clinic_approved,Joe,0,Bangkok,Matchaya
+4,Phuket Star Clinic,Thailand,2014-03-07 11:44,2014-03-07 11:45,THB,status_clinic_approved,Joe,0,Phuket,Matchaya
+5,ABC Bangkok Clinic,Thailand,2014-03-07 11:45,2014-12-12 10:35,THB,status_clinic_approved,Joe,0,Bangkok,Matchaya
+6,Chiang Mai Medical Center,Thailand,2014-03-07 11:52,2014-03-07 12:03,THB,status_clinic_approved,Joe,0,Chiang Mai,Matchaya
+7,International Specialist Clinic,Thailand,2014-03-07 11:54,2014-10-13 15:05,THB,status_clinic_approved,Joe,0,Phuket,Matchaya
+8,SP Surgery Clinic,Thailand,2014-03-07 11:55,2014-03-10 12:40,THB,status_clinic_approved,Joe,0,Bangkok,Matchaya
+9,Hospital Calderon Guardia,Costa Rica,2014-03-07 12:03,2014-10-29 11:01,USD,status_clinic_approved,Melanie,0,San Jose,Carmen
+10,Centro National de Salud,Costa Rica,2014-03-07 12:27,2014-03-07 12:28,USD,status_clinic_approved,Melanie,0,San Jose,Carmen
+11,Hospital de San Carlos,Costa Rica,2014-03-07 12:27,2014-11-17 16:16,USD,status_clinic_approved,Melanie,0,San Jose,Carmen
+12,Clinica Santa Rita,Costa Rica,2014-03-07 13:43,2014-10-07 08:33,USD,status_clinic_approved,Melanie,0,San Jose,Carmen
+13,Hospital Universitario de San Jose,Costa Rica,2014-03-07 15:50,2014-03-07 15:50,USD,status_clinic_approved,Melanie,0,San Jose,Carmen
+14,Hospital de Cruces,Costa Rica,2014-03-07 15:50,2014-03-07 17:26,USD,status_clinic_approved,Melanie,0,San Jose,Carmen
+15,Clinica Sempre Mais,Brazil,2014-03-07 17:33,2014-10-22 08:36,BRL,status_clinic_approved,Ana,0,Rio de Janeiro,Cristina
+16,Brazileza International,Brazil,2014-03-07 17:38,2014-11-12 09:58,BRL,status_clinic_approved,Ana,0,Rio de Janeiro,Cristina
+17,Hospital das Clinicas da Universidade de Sao Paulo,Brazil,2014-03-07 17:41,2014-10-22 08:36,USD,status_clinic_approved,Ana,0,Sao Paulo,Cristina
+18,Santa Casa de Misericordia Hospital,Brazil,2014-03-07 17:45,2014-10-01 13:34,USD,status_clinic_approved,Ana,0,Rio de Janeiro,Cristina
+19,Hospital Daher ,Brazil,2014-03-10 09:57,2014-03-10 10:41,USD,status_clinic_approved,Ana,0,Rio de Janeiro,Cristina
+20,Dr. Rousseff International Center,Brazil,2014-03-10 10:24,2014-12-10 14:58,BRL,status_clinic_approved,Ana,0,Sao Paulo,Cristina
+21,Vikaara Klinik,Brazil,2014-03-10 10:28,2014-11-21 16:01,BRL,status_clinic_approved,Ana,0,Sao Paulo,Cristina
+22,Complexo Elizeu Lavor,Brazil,2014-03-10 10:39,2014-08-07 15:15,BRL,status_clinic_approved,Ana,0,Rio de Janeiro,Cristina
+23,Kreativ Medical Clinic,Hungary,2014-03-10 10:40,2014-10-17 12:44,HUF,status_clinic_approved,Isata,0,Budapest,Gabor
+24,Budapest International Center,Hungary,2014-03-10 10:40,2014-11-18 13:50,HUF,status_clinic_approved,Isata,0,Budapest,Gabor
+25,Madenta Clinic Budapest,Hungary,2014-03-10 10:56,2014-12-02 16:40,HUF,status_clinic_approved,Isata,0,Budapest,Gabor
+26,Dr. Orban Clinic,Hungary,2014-03-10 10:57,2014-08-11 16:10,EUR,status_clinic_approved,Isata,0,Budapest,Gabor
+27,Jokai International Clinic,Hungary,2014-03-10 11:10,2014-12-11 17:13,EUR,status_clinic_approved,Isata,0,Budapest,Gabor
+28,MEDICare Buda International Center,Hungary,2014-03-10 11:32,2014-10-01 13:10,EUR,status_clinic_approved,Isata,0,Budapest,Gabor
+29,Hospital Mateu Orfila,Spain,2014-03-10 11:49,2014-08-07 15:15,EUR,status_clinic_approved,Melanie,0,Malaga,Miguel
+30,Clinica Reina Sofia,Spain,2014-03-10 13:03,2014-11-06 12:08,EUR,status_clinic_approved,Melanie,0,Madrid,Miguel
+31,Hospital Doctor Rajoy,Spain,2014-03-10 13:54,2014-10-30 10:44,EUR,status_clinic_approved,Melanie,0,Madrid,Miguel
+32,Hospital San Juan de la Cruz,Spain,2014-03-10 14:50,2014-03-10 14:51,EUR,status_clinic_approved,Melanie,0,Barcelona,Miguel
+33,Hospital de Basurto,Spain,2014-03-10 16:50,2014-10-13 08:53,EUR,status_clinic_approved,Melanie,0,Barcelona,Miguel
+34,Clinica Martes,Spain,2014-03-10 16:59,2014-03-31 19:31,EUR,status_clinic_approved,Melanie,0,Valencia,Miguel
+35,Kuala Lumpur International Clinic,Malaysia,2014-03-10 17:21,2014-11-25 15:27,MYR,status_clinic_approved,Joe,0,Kuala Lumpur,Cheong
+36,Klinik Razana Batang Padang,Malaysia,2014-03-10 17:21,2014-03-10 17:21,MYR,status_clinic_approved,Joe,0,Batang Patang,Cheong
+37,Dr. Razak International Clinic,Malaysia,2014-03-10 17:21,2014-03-10 17:21,MYR,status_clinic_approved,Joe,0,Kuala Lumpur,Cheong
+38,Beacon International Specialist Center,Malaysia,2014-03-10 17:22,2014-03-10 17:22,MYR,status_clinic_approved,Joe,0,Kuala Lumpur,Cheong
+39,Nilai Medical Center,Malaysia,2014-03-11 12:57,2014-09-30 09:03,MYR,status_clinic_approved,Joe,0,Kuala Lumpur,Cheong
+40,Court Drive Medical Center,United Kingdom,2014-03-12 10:47,2014-10-17 16:02,GBP,status_clinic_approved,Isata,0,London,John
+41,The London Clinic,United Kingdom,2014-03-12 17:06,2014-09-29 10:21,GBP,status_clinic_approved,Isata,0,London,John
+42,Forest and Ray,United Kingdom,2014-03-12 17:29,2014-03-12 17:42,GBP,status_clinic_approved,Isata,0,London,John
+43,Blackheath Village Clinic,United Kingdom,2014-03-14 11:28,2014-09-30 09:40,GBP,status_clinic_approved,Isata,0,London,John
+44,London Heyfield Clinic,United Kingdom,2014-03-14 13:08,2014-09-30 08:19,GBP,status_clinic_approved,Isata,0,London,John
+45,Dr. Cameron London Clinic,United Kingdom,2014-03-14 17:49,2014-12-02 16:09,GBP,status_clinic_approved,Isata,0,London,John
+46,Mount Vernon Specialist Clinic,United Kingdom,2014-03-14 17:51,2014-03-16 20:10,GBP,status_clinic_approved,Isata,0,London,John
+47,Krakow Medical Institute,Poland,2014-03-17 12:10,2014-03-17 12:12,PLN,status_clinic_approved,Isata,0,Krakow,Magdalena
+48,Mediklinika,Poland,2014-03-17 13:05,2014-12-11 11:31,PLN,status_clinic_approved,Isata,0,Szczecin,Magdalena
+49,Dr. Kopacz Medical Center,Poland,2014-03-18 16:09,2014-11-18 13:47,PLN,status_clinic_approved,Isata,0,Warsaw,Magdalena
+50,ClinicForYou Warszawa,Poland,2014-03-18 17:52,2014-10-01 14:06,PLN,status_clinic_approved,Isata,0,Warsaw,Magdalena

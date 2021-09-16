@@ -1,0 +1,63 @@
+procedure_id,procedure_name,category_name,created_at,updated_at
+1,Breast Implants,Plastic and Cosmetic Surgery,2014-03-07 14:48,2014-07-17 14:52
+2,Assisted Breathing,Accident and Emergency Medicine,2014-03-07 14:48,2014-07-17 14:52
+3,Critical Care,Accident and Emergency Medicine,2014-03-07 14:48,2014-07-17 14:52
+4,Deep Wound Treatment,Accident and Emergency Medicine,2014-03-07 14:48,2014-07-17 14:52
+5,Allergology Consultation,Allergology,2014-03-07 14:48,2014-07-17 14:03
+6,Allergy Testing,Allergology,2014-03-07 14:48,2014-07-17 14:52
+7,Gastric Balloon Treatment,Bariatric Surgery,2014-03-07 14:48,2014-12-03 14:54
+8,Gastric Band Surgery,Bariatric Surgery,2014-03-07 14:48,2014-07-17 14:52
+9,Gastric Bypass Surgery,Bariatric Surgery,2014-03-07 14:48,2014-03-10 11:52
+10,Sleeve Gastrectomy,Bariatric Surgery,2014-03-07 14:48,2014-07-17 14:52
+11,Alineadent,Dentistry,2014-03-07 14:48,2014-09-11 08:21
+12,All-on-4,Dentistry,2014-03-07 14:48,2014-07-17 14:52
+13,Dental Bridge,Dentistry,2014-03-07 14:48,2014-11-19 13:39
+14,Invisalign,Dentistry,2014-03-07 14:48,2014-07-17 14:52
+15,Hip Replacement,Orthopedics,2014-03-07 14:48,2014-07-17 14:52
+16,Laser Treatment for Gum Disease,Dentistry,2014-03-07 14:48,2014-07-17 14:52
+17,Lingual Braces,Dentistry,2014-03-07 14:48,2014-07-17 14:52
+18,Sinus Lift,Dentistry,2014-03-07 14:48,2014-07-17 14:52
+19,Space Maintainer,Dentistry,2014-03-07 14:48,2014-07-17 14:52
+20,Hyperpigmentation Treatment,Dermatology,2014-03-07 14:48,2014-11-28 10:06
+21,Stretch Marks Removal,Dermatology,2014-03-07 14:48,2014-07-17 14:52
+22,Tattoo Removal,Dermatology,2014-03-07 14:48,2014-07-17 14:52
+23,Tissue Biopsy,Dermatology,2014-03-07 14:48,2014-12-08 16:49
+24,Veneers,Dentistry,2014-03-07 14:48,2014-07-17 14:52
+25,Vein Treatment,Dermatology,2014-03-07 14:48,2014-07-17 14:03
+26,Warts Removal,Dermatology,2014-03-07 14:48,2014-07-17 14:52
+27,X-Rays,Diagnostic Imaging,2014-03-07 14:48,2014-08-05 12:26
+28,Smoking Cessation,Drug Rehabilitation,2014-03-07 14:48,2014-07-17 14:52
+29,Colonoscopy,Gastroenterology,2014-03-07 14:48,2014-07-17 14:52
+30,Breast Tumor Removal,General Surgery,2014-03-07 14:48,2014-07-17 14:52
+31,Breast Exam,Gynecology,2014-03-07 14:48,2014-07-17 14:52
+32,Hair Implant,Hair Restoration,2014-03-07 14:48,2014-07-17 14:52
+33,Neurology Consultation,Neurology,2014-03-07 14:48,2014-07-17 14:52
+34,Cataract Surgery,Ophthalmology,2014-03-07 14:48,2014-08-05 10:41
+35,Eye Implant,Ophthalmology,2014-03-07 14:48,2014-08-05 12:23
+36,Elbow Replacement,Orthopedics,2014-03-07 14:48,2014-07-17 14:52
+37,Cancer Treatment,Oncology,2014-03-07 14:48,2014-07-17 14:52
+38,Knee Surgery,Orthopedics,2014-03-07 14:48,2014-07-17 14:52
+39,Heat Therapy,Physical Medicine and Rehabilitation,2014-03-07 14:48,2014-07-17 14:52
+40,Kinesiotherapy,Physical Medicine and Rehabilitation,2014-03-07 14:48,2014-07-17 14:52
+41,Knee Brace,Physical Medicine and Rehabilitation,2014-03-07 14:48,2014-07-17 14:52
+42,Sports Medicine,Physical Medicine and Rehabilitation,2014-03-07 14:48,2014-03-07 14:48
+43,Arm Lift,Plastic and Cosmetic Surgery,2014-03-07 14:48,2014-07-17 14:52
+44,Chin Augmentation,Plastic and Cosmetic Surgery,2014-03-07 14:48,2014-08-05 10:20
+45,Laser Eye Surgery,Ophthalmology,2014-03-07 14:48,2014-07-17 14:52
+46,Fat Transfer,Plastic and Cosmetic Surgery,2014-03-07 14:48,2014-07-17 14:03
+47,Liposuction,Plastic and Cosmetic Surgery,2014-03-07 14:48,2014-07-17 14:52
+48,Rhinoplasty,Plastic and Cosmetic Surgery,2014-03-07 14:48,2014-07-17 14:03
+49,Scar Removal,Plastic and Cosmetic Surgery,2014-03-07 14:48,2014-03-10 11:47
+50,Wrinkle Treatment,Plastic and Cosmetic Surgery,2014-03-07 14:48,2014-07-17 14:52
+51,Psychology Therapy,Psychology,2014-03-07 14:48,2014-07-17 14:52
+52,Donor Sperm,Reproductive Medicine,2014-03-07 14:48,2014-03-07 14:48
+53,Teeth Whitening,Dentistry,2014-03-07 14:48,2014-11-28 09:57
+54,Fetal Ultrasound,Reproductive Medicine,2014-03-07 14:48,2014-11-20 16:01
+55,Spine Surgery,Spinal Surgery,2014-03-07 14:48,2014-07-18 14:10
+56,Prostate Biopsy,Urology,2014-03-07 14:48,2014-11-20 16:01
+57,Prostate Surgery,Urology,2014-03-07 14:48,2014-12-04 11:35
+58,Detox Retreat,Wellness,2014-03-07 14:48,2014-12-04 10:39
+59,Detox Treatment,Wellness,2014-03-07 14:48,2014-12-08 16:48
+60,Facial Massage,Wellness,2014-03-07 14:48,2014-07-17 14:52
+61,Foot Massage,Wellness,2014-03-07 14:48,2014-08-04 10:00
+62,Wellness Treatment,Wellness,2014-03-07 14:48,2014-11-20 16:03
